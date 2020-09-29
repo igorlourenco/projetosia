@@ -30,3 +30,5 @@
 4. I said the sentence and waited a few seconds...
 
 5. and ... the program returned the sentence that I said as a written sentence:
+
+![Running](running_screenshot.png)
