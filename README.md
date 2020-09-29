@@ -4,7 +4,7 @@
 
 ---
 
-##### Techologies used:
+##### Used techologies:
 
 * [Python](https://www.python.org/): programming language used to implement the practical part of the discipline.
 
