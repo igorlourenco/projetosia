@@ -1,6 +1,6 @@
 ### ⚡ Audio Interpreter
 
-**audio interpreter built with python language as an activity of Inteligência Artificial.**
+**Audio interpreter built with python language as an activity of Inteligência Artificial.**
 
 --- 
 
@@ -10,12 +10,12 @@
 
 ---
 
-##### How I did it:
+##### How do I did it:
 
 1. I installed the necessary libraries for audio recognition:     
   
   * To use SpeechRecognition library:    
-  ``` pip install SpeechRegocnition ```     
+  ``` pip install SpeechRecognition ```     
   
   * To use PyAudio library:
     * Download the PyAudio version from [this link](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) according to the current Python version on your computer;
